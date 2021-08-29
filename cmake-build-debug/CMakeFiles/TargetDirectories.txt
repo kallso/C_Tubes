@@ -1,0 +1,7 @@
+/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/CMakeFiles/Tubes4.dir
+/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/CMakeFiles/Tubes3.dir
+/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/CMakeFiles/Tubes2.dir
+/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/CMakeFiles/Tubes1.dir
+/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/CMakeFiles/Tubes.dir

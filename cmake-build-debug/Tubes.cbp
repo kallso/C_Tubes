@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Tubes"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes4">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes4"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes4/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes4/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes3">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes3/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes2">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes2/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes1">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes1/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Tubes/fast">
+				<Option output="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug/Tubes" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/CNAM I1/Licence I1/Tubes/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 Tubes/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/CNAM\ I1/Licence\ I1/Tubes/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Tubes/lawson_exo1.c">
+			<Option target="Tubes1"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Tubes/lawson_exo2.c">
+			<Option target="Tubes2"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Tubes/lawson_exo3.c">
+			<Option target="Tubes3"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Tubes/lawson_exo4.c">
+			<Option target="Tubes4"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Tubes/main.c">
+			<Option target="Tubes"/>
+		</Unit>
+		<Unit filename="/mnt/d/CNAM I1/Licence I1/Tubes/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

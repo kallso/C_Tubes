@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/CNAM I1/Licence I1/Tubes/lawson_exo4.c
+stdio.h
+-
+pthread.h
+-
+unistd.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+
